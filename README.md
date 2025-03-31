@@ -8,7 +8,7 @@ I am looking for a job in programming and software development to gain experienc
 
 * 🌍  I'm based in Songkhla
 * ✉️  You can contact me at [phuriphatsuknukul@gmail.com](mailto:phuriphatsuknukul@gmail.com)
-* 🧠  I'm learning React.js , Next.js , TypeScript , Go , SQL
+* 🧠  I'm learning React.js , Next.js , JavaScript , TypeScript , Go , SQL
 
 ### Skills
 
